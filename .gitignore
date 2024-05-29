@@ -1,8 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,macos,flask,git,dotenv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,flask,git,dotenv
 
-### dotenv ###
-.env
 
 ### Flask ###
 instance/*
@@ -131,6 +129,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.env
 .venv
 env/
 venv/
